@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    width: 95%;
+    position: fixed;
+    z-index: 10000;
+    align-items: center;
+    padding: 20px 40px;
+    div{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+}
+
+.hero__header{
+    padding-top: 150px;
+    background-color: #F4F4F5;
+    margin: 40px;
+    
+}
+.df-2{
+    display: flex;
+    align-items: center;
+}
+
+.df-4{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.border{
+    margin-top: 50px;
+    height: 213px;
+    background-color: #212731;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.df{
+    display: flex;
+}
+
+.p-2{
+    background-color: #28303D;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.df-5{
+    display: flex;
+}
+
+.hero__border{
+    margin-top: 100px;
+    color: white;
+    background-color: #212731;
+    display: flex;
+    padding: 20px 40px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero__border_3{
+    border: 1px solid lightgray;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+    p{
+        padding: 10px 0px;
+    }
+
+    .button-1{
+        background-color: #D7B18D;
+        border: 1px solid #D7B18D;
+        border-radius: 10px;
+        padding: 10px 20px;
+    }
+    .btn-2{
+        background-color: white;
+        border: 1px solid #D7B18D;
+        border-radius: 10px;
+        padding: 10px 20px;
+    }
+
+    .df-7{
+        display: flex;
+    }
+
+}
+
+.df-6{
+    display: flex;
+    gap: 30px;
+}
+
+.bor_3{
+    border: 1px solid lightgray;
+    display: inline-block;
+    padding: 20px 100px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.df-7{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero__border_2{
+    margin-top: 100px;
+    h1{
+        margin-bottom: 20px;
+
+    }
+}
+
+.hero__border__3{
+    margin-top: 100px;
+    h1{
+        margin: 40px 30px;
+    }
+
+    .df-10{
+        display: flex;
+        justify-content: space-between;
+        padding: 30px;
+        gap: 30px;
+    }
+}
+
+.border_5{
+    border: 1px solid lightgray ;
+    display: inline-block;
+    padding: 20px 40px;
+    border-radius: 10px;
+    
+    .btn-2{
+        background-color: white;
+        border: 1px solid #D7B18D;
+        border-radius: 10px;
+        padding: 10px 20px;
+        width: 100%;
+    }
+
+    p{
+        padding-top: 10px;
+    }
+    img{
+        padding: 10px 0px;
+    }
+
+    .df_9{
+        display: flex;
+        gap: 20px;
+        align-items: center;
+    }
+}
+
+.hero__border_10{
+    background-color:#F4F4F5 ;
+    display: flex;
+    gap: 30px;
+    padding: 20px 40px;
+    align-items: center;
+    border-radius: 10px;
+    margin: 20px;
+    input{
+        padding: 10px 40px;
+    }
+
+    .df-11{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+}
+
+.hero__p{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+footer{
+    border: 1px solid #212731;
+    background-color: #212731;
+    color: white;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 10px;
+    .df-12{
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+
+    }
+    .df-13{
+        display: flex;
+        position: relative;
+    }
+
+    .po{
+        position: relative;
+        right: 100px;
+    }
+}
